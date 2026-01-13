@@ -1,21 +1,71 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="Travel Trip of Sylhet Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+# Travel Trip of Sylhet 🌿
+**Explore the Tea Capital of Bangladesh.**
+
+[![Author](https://img.shields.io/badge/Author-RashedDevX-blue?style=for-the-badge)](https://github.com/RashedDevX)
+[![Platform](https://img.shields.io/badge/Developed_By-RashedDevX-green?style=for-the-badge)](https://github.com/RashedDevX)
+
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## 📍 About the Project
+**Travel Trip of Sylhet** is a specialized travel assistant designed to help tourists explore the scenic beauty of Sylhet. From the lush green tea gardens to the crystal clear waters of Bisnakhandi, this app provides personalized trip guidance.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1sz_QhiiSRYE_i-Qwc71Fn-0kwRN-fvSx
+View the app: [Travel Trip of Sylhet]()
 
-## Run Locally
+## ✨ Key Features
+* **Travel Recommendations:** Personalized travel spots based on your preferences.
+* **Local Insights:** Hidden gems and best times to visit Sylhet's attractions.
+* **Interactive Interface:** A seamless experience for planning your next adventure.
 
-**Prerequisites:**  Node.js
+---
 
+## 🚀 Getting Started
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-# travel-trip-of-sylthe
+To run this project locally, follow these steps:
+
+### Prerequisites
+* **Node.js** (Latest LTS recommended)
+
+### Installation & Setup
+
+1.  **Clone the Repository:**
+    ```bash
+    git clone [https://github.com/RashedDevX/travel-trip-of-sylthe.git](https://github.com/RashedDevX/travel-trip-of-sylthe.git)
+    cd travel-trip-of-sylthe
+    ```
+
+2.  **Install Dependencies:**
+    ```bash
+    npm install
+    ```
+
+3.  **Environment Configuration:**
+    Create a `.env.local` file in the root directory and add your required keys:
+    ```env
+    API_KEY=your_key_here
+    ```
+
+4.  **Run the Development Server:**
+    ```bash
+    npm run dev
+    ```
+
+---
+
+## 🛠️ Built With
+* **Next.js** - React Framework
+* **Tailwind CSS** - Styling
+* **Developed by RashedDevX**
+
+## 👤 Credit
+This project is entirely developed and maintained by **RashedDevX**.
+* GitHub: [@RashedDevX](https://github.com/RashedDevX)
+
+---
+<div align="center">
+Made with ❤️ by RashedDevX
+</div>

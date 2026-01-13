@@ -1,0 +1,7 @@
+{
+  "name": "Travel Trip of Sylthe",
+  "description": "A premium travel agency website for exploring Bangladesh and beyond, featuring beautiful tour packages, responsive design, and smooth animations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
